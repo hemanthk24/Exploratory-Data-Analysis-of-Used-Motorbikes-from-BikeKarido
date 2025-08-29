@@ -8,13 +8,13 @@ The goal is to identify market trends, price patterns, and ownership behaviors t
 
 🎯 Objectives
 
-Understand price distribution of bikes based on year, brand, ownership, and usage (Km driven).
+1. Understand price distribution of bikes based on year, brand, ownership, and usage (Km driven).
 
-Detect outliers and anomalies in resale data to assess data quality.
+2. Detect outliers and anomalies in resale data to assess data quality.
 
-Explore buyer preferences for newer vs. older models.
+3. Explore buyer preferences for newer vs. older models.
 
-Provide recommendations for sellers (pricing, demand strategy) and buyers (fair deal evaluation).
+4. Provide recommendations for sellers (pricing, demand strategy) and buyers (fair deal evaluation).
 
 🛠️ Data Collection & Processing
 
